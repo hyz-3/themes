@@ -4,3 +4,12 @@
 Copy&Paste for **Vencord**:
 
 [click n' copy me](https://raw.githubusercontent.com/hyz-3/themes/main/pink-hyz.css)
+
+
+
+**PINK-HYZ Darker Version**
+![image](https://github.com/hyz-3/themes/assets/121250506/431cdbbd-e554-4f41-b821-d9b4c07c9a0f)
+
+Copy&Paste for **Vencord**:
+
+[click n' copy me](https://raw.githubusercontent.com/hyz-3/themes/main/pink-hyz-darker.css)
