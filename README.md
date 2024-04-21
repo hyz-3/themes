@@ -1,3 +1,2 @@
-**SOFTX PURPLE**
-![Screenshot_6](https://github.com/yzontop/themes/assets/121250506/2134c696-93bc-4f98-8914-71927986c9cb)
-**COPY&PASTE**: https://raw.githubusercontent.com/yzontop/themes/main/softx.theme.css
+**PINK-HYZ**
+![image](https://github.com/hyz-3/themes/assets/121250506/af892fdb-59c1-43d8-8a58-bd3f225ac4c1)
