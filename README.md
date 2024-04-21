@@ -3,3 +3,5 @@
 
 Copy&Paste for **Vencord**:
 [click n' copy me](https://raw.githubusercontent.com/hyz-3/themes/main/pink-hyz.css)
+
+. . .
