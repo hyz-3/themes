@@ -1,4 +1,4 @@
-**PINK-HYZ v1**
+# PINK-HYZ v1
 ![image](https://github.com/hyz-3/themes/assets/121250506/af892fdb-59c1-43d8-8a58-bd3f225ac4c1)
 
 Copy&Paste for **Vencord**:
@@ -7,7 +7,7 @@ Copy&Paste for **Vencord**:
 
 
 
-**PINK-HYZ Darker Version**
+# PINK-HYZ Darker Version
 ![image](https://github.com/hyz-3/themes/assets/121250506/431cdbbd-e554-4f41-b821-d9b4c07c9a0f)
 
 Copy&Paste for **Vencord**:
