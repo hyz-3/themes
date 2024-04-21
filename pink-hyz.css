@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@100;300;400;500;700&display=swap');
+@import url('https://discordstyles.github.io/MinimalCord/dist/MinimalCord.css');
+
+:root {
+  --accent: 255,158,181;
+  --undefined: 0;
+  --dark-bg-hue: 315;
+  --dark-bg-saturation: 0%;
+  --dark-bg-lightness: 7%;
+  --undefined: 0;
+  --light-bg-hue: 222;
+  --light-bg-saturation: 0%;
+  --light-bg-lightness: 100%;
+  --font: Nunito;
+  --message-padding: 10px;
+  --message-spacing: 10px;
+}
+
+/* Any custom CSS below here */
+
+
